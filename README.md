@@ -14,6 +14,7 @@ VBAのユーザーフォームを使用して、Notesと連携し、Sheetに入�
 Excel2016で動作確認済み
 
 ## Demo
+![一斉送信用マクロ](https://user-images.githubusercontent.com/43311555/61949874-24219e80-afe7-11e9-8822-bcd4a1c71b3b.gif)
 
 ## Usage
 
